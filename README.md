@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I am also interested in Tumor Immunology because of my difficult study career,you can tell from the name **TGF-B** ...
             
 ![Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGF-B)
+
+![](https://img.shields.io/badge/python-3.8-orange?style=for-the-badge&logo=python&logoColor=orange)
