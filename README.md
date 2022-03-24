@@ -4,10 +4,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently an python amateur who`s trying to apply some tools to automize my tedious work.
-- 🌱 I’m currently learning **python/Django** backend development,also a little taste of **C++**.
+- 🌱 I’m currently learning **python/Django** backend development,also a little bit taste of **C++**.
 - 📫 How to reach me: Always online by zhengqi.tang@outlook.com.
-- 😄 Pronouns: I call myself Kit when I`m coding , a more-like geek name.
-- ⚡ Fun fact: I am also interested in Tumor Immunology because of my difficult study career,you can tell from the name **TGF-B** ...
+- 😄 Pronouns: I call myself Kit when I`m coding , a more-geek-like name.
+- ⚡ Fun fact: I am also interested in Tumor Immunology ，you can tell from the name **TGF-B** ...
             
 ![Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGF-B)
 
