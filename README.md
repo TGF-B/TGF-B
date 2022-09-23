@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **python/Django** backend development,also a little bit taste of **C++**.
 - 📫 How to reach me: Always online by zhengqi.tang@outlook.com.
 - 😄 Pronouns: I call myself Kit when I`m coding , a more-geek-like name.
-- ⚡ Fun fact: I am also interested in Tumor Immunology ，you can tell from the name **TGF-B** ...
+- ⚡ Fun fact: I am also interested in Tumor Immunology ，you can tell from the name **TGF-β** ...
             
 ![Kit's GitHub stats](https://github-readme-stats.vercel.app/api?username=TGF-B)
 
